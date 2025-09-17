@@ -4,7 +4,15 @@
 I'm Mostufa,
 I create amazing responsive websites. You may rely on me whether you need a makeover for your existing website or a new, creative design. My expertise lies in creating mobile-friendly websites that load quickly and smoothly on all devices. Together, let's develop a website that offers an ideal user experience! 
 
-Skills: Html / Css / Js / Bootstrap 5 / Jquery / MySqli / php / Laravel
+Skills & Experience
+Html
+Css 
+Js
+Bootstrap 5
+Jquery
+MySqli
+Php
+Laravel
 
 - 🌱 I’m currently learning Laravel 
 
