@@ -4,15 +4,15 @@
 I'm Mostufa,
 I create amazing responsive websites. You may rely on me whether you need a makeover for your existing website or a new, creative design. My expertise lies in creating mobile-friendly websites that load quickly and smoothly on all devices. Together, let's develop a website that offers an ideal user experience! 
 
-Skills & Experience
-Html
-Css 
-Js
-Bootstrap 5
-Jquery
-MySqli
-Php
-Laravel
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/jquery-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysqli-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 - 🌱 I’m currently learning Laravel 
 
