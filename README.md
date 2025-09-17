@@ -11,6 +11,6 @@ Skills: Html / Css / Js / Bootstrap 5 / Jquery / MySqli / php / Laravel
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sr-mostufa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash-sra/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sr-mostufa)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
