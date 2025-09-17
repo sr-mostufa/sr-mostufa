@@ -5,7 +5,12 @@ I'm Mostufa,
 I create amazing responsive websites. You may rely on me whether you need a makeover for your existing website or a new, creative design. My expertise lies in creating mobile-friendly websites that load quickly and smoothly on all devices. Together, let's develop a website that offers an ideal user experience! 
 
 <div align="center">
-  <video url="[https://techstack-generator.vercel.app/html-icon.svg](https://cdnl.iconscout.com/lottie/premium/preview-watermark/html-animated-icon-gif-download-7832246.mp4)" alt="icon" width="50" height="50" />
+ <video controls preload="metadata">
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/html-animated-icon-gif-download-7832246.mp4" type="video/mp4">
+  Your browser does not support the video tag. 
+  <a href="https://cdnl.iconscout.com/lottie/premium/preview-watermark/html-animated-icon-gif-download-7832246.mp4">Download the video</a>.
+</video>
+
   
 </div>
 
